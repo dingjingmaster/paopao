@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/paopao">
+        <file alias="paopao.qml">main.qml</file>
+    </qresource>
+    <qresource prefix="/paopao/cover"/>
+    <qresource prefix="/paopao/paopao">
+        <file>DebugArea.qml</file>
+        <file>TheForce.qml</file>
+        <file>res/paopao.png</file>
+    </qresource>
+</RCC>
